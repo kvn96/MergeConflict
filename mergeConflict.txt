@@ -1,1 +1,2 @@
-hello making a conflict!
+hello making a conflict! x2
+
